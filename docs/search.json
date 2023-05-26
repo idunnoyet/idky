@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-13T15:18:38+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "PHOBIAS",
+      "author": [],
+      "contents": "\n\n          \n          \n          HOME PAGE\n          \n          \n          Home\n          ummm\n          About\n          ☰\n          \n          \n      \n        \n          PHOBIAS\n          \n            \n                \n                  \n                     Twitter\n                  \n                \n              \n                            \n                \n                  \n                     GitHub\n                  \n                \n              \n                            \n                \n                  \n                     Contact Us\n                  \n                \n              \n                          \n        \n\n        \n          \n      \n      \n        \n          \n          Introduction\n          A website a phobias. What more can I say? 😐\n          \n          \n          DEFINITION\n          An extreme or irrational fear of or aversion to\n          something.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              PHOBIAS\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              A website a phobias. What more can I say? 😐\n              \n              \n              DEFINITION\n              An extreme or irrational fear of or aversion to\n              something.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-05-26T10:48:58+00:00"
+    },
+    {
+      "path": "ummm.html",
+      "title": "PHOBIAS",
+      "author": [
+        {
+          "name": "ME",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-05-26T09:33:02+00:00"
+    }
+  ],
+  "collections": []
+}

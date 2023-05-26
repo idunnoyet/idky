@@ -1,0 +1,16 @@
+name: "PHOBIAS"
+title: "HOME PAGE"
+description: |
+ 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "ummm"
+      href: ummm.html
+    - text: "About"
+      href: about.html
+   
+      
+output: distill::distill_article
