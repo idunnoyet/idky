@@ -3,22 +3,20 @@ title: "PHOBIAS"
 image: "images/phobiaa.jpg"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
-    url: 'https://twitter.com/R_Girls_School target="_blank"'
+    url: 'https://twitter.com/loll target="_blank"'
   - label: '<i class="fab fa-github"></i> GitHub'
     url: 'https://github.com/R-Girls target="_blank"'
-  - label: '<i class="fas fa-envelope"></i> Contact Us'
+  - label: '<i class="fas fa-envelope"></i> contact me '
     url: "mailto:AAYESHA.SIDDIQA_20@GREENOAK.BHAM.SCH.UK"
 output:
   postcards::solana
 site: distill::distill_website
 ---
  
-## Introduction
+## INTRODUCTION
  A website a phobias. What more can I say? 😐
-
-
-
-
+<br>
+<br>
 ## DEFINITION
  An extreme or irrational fear of or aversion to something.
 
