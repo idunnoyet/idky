@@ -1,22 +1,21 @@
 ---
-title: "PHOBIAS"
+title: "THE BERMUDA TRIANGLE"
 image: "images/phobiaa.jpg"
 links:
-  - label: '<https://twitter.com/home> Twitter'
-    url: ' target="_blank"'
-  - label: '<i class="fab fa-github"></i> GitHub'
+  - label: 'Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fa-brands fa-github-alt"></i> GitHub'
     url: 'https://github.com/idunnoyet/idky target="_blank"'
   - label: '<i class="fas fa-envelope"></i> contact me '
-    url: "mailto:AAYESHA.SIDDIQA_20@GREENOAK.BHAM.SCH.UK"
+    url: "mailto:aayesha.SIDDIQA_20@GREENOAK.bham.sch.uk"
 output:
   postcards::solana
 site: distill::distill_website
 ---
  
 ## INTRODUCTION
- A website a phobias. What more can I say? 😐
-<br>
-<br>
-## DEFINITION
- An extreme or irrational fear of or aversion to something.
+ A website about the bermuda triangle.made by me 😐
+
+## WHAT IS THE BERMUDA TRIANGLE?
+ The Bermuda Triangle, also known as the Devil's Triangle, is in the western part of the North Atlantic Ocean where a number of aircraft and ships are said to have disappeared with unknown reasons
 

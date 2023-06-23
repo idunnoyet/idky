@@ -1,0 +1,25 @@
+---
+title: "ACCIDENTS"
+description: |
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+##AIRCRAFT INCIDENTS:
+
+1945: December 5, Flight 19 (five TBF Avengers) lost with 14 airmen, and later the same day PBM Mariner BuNo 59225 lost with 13 airmen while searching for Flight 19.
+
+1947: July 3, a Douglas C-54 crashed off the Florida coast after the pilot lost control in turbulence.
+
+1948: January 30, Avro Tudor G-AHNP Star Tiger lost with six crew and 27 passengers, en route from Santa Maria Airport in the Azores to Kindley Field, Bermuda.
+
+2017: May 15, A private MU-2B aircraft was at 24,000 feet when it vanished from radar and radio contact with air traffic controllers in Miami.Plane wreckage was found later.
+
+##INCIDENTS AT SEA:
+
+2015: Late July, two 14-year-old boys, Austin Stephanos, and Perry Cohen went on a fishing trip in their 19-foot boat. Despite the 15,000 square nautical mile wide search by the Coast Guard,[28] the pair's boat was found a year later off the coast of Bermuda, but the boys were never seen again.
+
+2015: October 1, SS El Faro, with a crew of 33 aboard, sank off of the coast of the Bahamas within the triangle after sailing into Hurricane Joaquin. Search crews identified the vessel 15,000 feet below the surface.

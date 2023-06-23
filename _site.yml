@@ -1,14 +1,13 @@
-name: "PHOBIAS"
-title: "HOME PAGE"
+name: "BERMUDA TRIANGLE"
+title: "Home"
 description: |
- 
 output_dir: "docs"
 theme: "my_theme.css"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "more"
+    - text: "HEYY"
       href: more.html
     - text: "About"
       href: about.html
